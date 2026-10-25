@@ -8,7 +8,7 @@
 
 Aplikasi pencatatan kas berbasis frontend statis dengan Supabase sebagai penyimpanan. 
 
-Repository: [cantyapuspa3-sudo/Covelle-Textile-CashFloww](https://github.com/cantyapuspa3-sudo/Covelle-Textile-CashFloww)
+Repository: https://github.com/cantyapuspa3-sudo/Convelle-Cashflow)
 
 Web Demo Aplikasi: [Klik di sini untuk membuka Covelle Textile CashFlow](https://cantyapuspa3-sudo.github.io/Covelle-Textile-CashFloww/frontend/index.html)
 
