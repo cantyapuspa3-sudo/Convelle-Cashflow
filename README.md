@@ -10,7 +10,7 @@ Aplikasi pencatatan kas berbasis frontend statis dengan Supabase sebagai penyimp
 
 Repository: https://github.com/cantyapuspa3-sudo/Convelle-Cashflow)
 
-Web Demo Aplikasi: [Klik di sini untuk membuka Covelle Textile CashFlow](https://cantyapuspa3-sudo.github.io/Covelle-Textile-CashFloww/frontend/index.html)
+Web Demo Aplikasi: [Klik di sini untuk membuka Covelle Textile CashFlow](https://cantyapuspa3-sudo.github.io/Convelle-Cashflow/frontend/index.html)
 
 Versi ringkas ini menggunakan lima tabel bisnis:
 - `branches` — master cabang.
